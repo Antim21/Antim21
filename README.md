@@ -21,7 +21,7 @@
 - SpamSense AI
   
 
--- 📫 How to reach me **antimmaurya2108@gmail.com**
+- 📫 How to reach me **antimmaurya2108@gmail.com**
 
 - ⚡ Fun fact **"First bug was a moth!"**
 
