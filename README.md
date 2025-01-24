@@ -12,11 +12,11 @@
 
 - I am actively engaged in the tech community, I love participating in coding competitions and contributing to open-source projects. From algorithmic challenges to collaborative coding endeavors, I believe in the power of teamwork and continuous learning.
 
-**Projects**
-- Real-Time Code Editor
+**Projects** - Real-Time Code Editor
 - Food Website
 - Voice Assistant Using Python
 - Dice-Game
+- Budget Tracker
 - SpamSense AI
   
 
