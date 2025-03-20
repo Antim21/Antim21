@@ -9,7 +9,6 @@
 - 🔭 I’m currently pursuing my final year in **Computer Science Engineering** 
  
 - 🌱 I’m currently learning and enhancing my **Problem-solving Skills and Web Development Skills**
-- 
 
 - I am actively engaged in the tech community, I love participating in coding competitions and contributing to open-source projects. From algorithmic challenges to collaborative coding endeavors, I believe in the power of teamwork and continuous learning.
 
