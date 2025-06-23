@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antim21&label=Profile%20views&color=0e75b6&style=flat" alt="antim21" /> </p>
   
 - 🔭 I’m currently pursuing my final year in **Computer Science Engineering** 
- 
+   
 - 🌱 I’m currently learning and enhancing my **Problem-solving Skills and Web Development Skills**
 
 - I am actively engaged in the tech community, I love participating in coding competitions and contributing to open-source projects. From algorithmic challenges to collaborative coding endeavors, I believe in the power of teamwork and continuous learning.
